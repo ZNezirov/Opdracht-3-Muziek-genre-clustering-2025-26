@@ -5,3 +5,4 @@ seaborn
 librosa
 scikit-learn
 ipython
+python
